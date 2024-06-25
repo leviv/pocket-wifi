@@ -24,7 +24,7 @@ git clone git@github.com:leviv/pocket-wifi.git
 
 2. Download the [Arduino 1.8.x IDE](https://www.arduino.cc/en/software)
 
-3. Double click to open `pocket_wifi.ino` in the IDE.
+3. Double click to open `pocket-wifi.ino` in the IDE.
 
 4. Go to File > Preferences and add this line to 'Additional Boards Manager URLs'. Hit Ok.
 
